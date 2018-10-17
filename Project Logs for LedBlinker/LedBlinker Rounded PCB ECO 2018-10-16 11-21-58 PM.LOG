@@ -1,0 +1,70 @@
+Added Component: Designator=S1(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S5(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=RST BTN Pin=S1-3
+Added Pin To Net: NetName=RST BTN Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=BTN 4 Pin=S2-3
+Added Pin To Net: NetName=BTN 4 Pin=S2-4
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=BTN 3 Pin=S3-3
+Added Pin To Net: NetName=BTN 3 Pin=S3-4
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=BTN 2 Pin=S4-3
+Added Pin To Net: NetName=BTN 2 Pin=S4-4
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=BTN 1 Pin=S5-3
+Added Pin To Net: NetName=BTN 1 Pin=S5-4
+Added Member To Class: ClassName=myLEDBlinker Member=Component S1 TL3301
+Added Member To Class: ClassName=myLEDBlinker Member=Component S2 TL3301
+Added Member To Class: ClassName=myLEDBlinker Member=Component S3 TL3301
+Added Member To Class: ClassName=myLEDBlinker Member=Component S4 TL3301
+Added Member To Class: ClassName=myLEDBlinker Member=Component S5 TL3301
