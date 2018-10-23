@@ -1,0 +1,450 @@
+Added Component: Designator=B1(CONN BATTERY HOLDER CR2032)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CONN HOLDER COIN CELL 20MM SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "BK-912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "BK-912-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2012-09-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=B2(CONN BATTERY HOLDER CR2032)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CONN HOLDER COIN CELL 20MM SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "BK-912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "BK-912-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2012-09-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=C1(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CAP [TYPE] [VALUE] [TOLERANCE] [VOLTAGE] [CLASS] [PACKAGE]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(PLCC-2 AK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "LED [COLOR] [STYLE] [PACKAGE] [MOUNT]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN 14POS 7X2 SMT FEMALE SMALL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CONN TERMINAL 14POS 7X12 1.27MM VERT SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "20021321-00014T4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "609-3771-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2018-10-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "BJW"; VariantName = "[No Variations]"
+Added Component: Designator=M1(TSSOP28)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "MCU MSP430F2122 TSSOP28 LED BLINKER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "MSP430F2122TPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "296-23365-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2018-10-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "BJW"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SC-70-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S1(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=S5(SWITCH TACT SMT TL3301)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "SWITCH TACT 260GF H=5.0MM SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "TL3301xxx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. CML Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2014-10-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TEST POINT SMT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "Test pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "June 12, 2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TEST POINT SMT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "Test pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "June 12, 2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=B1-+
+Added Pin To Net: NetName=VBAT Pin=B1-+
+Added Pin To Net: NetName=GND Pin=B1--
+Added Pin To Net: NetName=VBAT Pin=B2-+
+Added Pin To Net: NetName=VBAT Pin=B2-+
+Added Pin To Net: NetName=GND Pin=B2--
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=GND Pin=D4-K
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=GND Pin=D5-K
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=GND Pin=D6-K
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=GND Pin=D7-K
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=GND Pin=D8-K
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=RST Pin=J1-2
+Added Pin To Net: NetName=TDO Pin=J2-1
+Added Pin To Net: NetName=TDI Pin=J2-3
+Added Pin To Net: NetName=TMS Pin=J2-5
+Added Pin To Net: NetName=TCK Pin=J2-7
+Added Pin To Net: NetName=TEST Pin=J2-8
+Added Pin To Net: NetName=VCC Pin=J2-9
+Added Pin To Net: NetName=TICK Pin=J2-10
+Added Pin To Net: NetName=RST Pin=J2-11
+Added Pin To Net: NetName=PIMO Pin=J2-12
+Added Pin To Net: NetName=GND Pin=J2-13
+Added Pin To Net: NetName=POMI Pin=J2-14
+Added Pin To Net: NetName=TEST Pin=M1-1
+Added Pin To Net: NetName=VCC Pin=M1-2
+Added Pin To Net: NetName=TICK Pin=M1-3
+Added Pin To Net: NetName=GND Pin=M1-4
+Added Pin To Net: NetName=RST Pin=M1-7
+Added Pin To Net: NetName=LED7 Pin=M1-10
+Added Pin To Net: NetName=LED6 Pin=M1-11
+Added Pin To Net: NetName=LED5 Pin=M1-12
+Added Pin To Net: NetName=LED4 Pin=M1-13
+Added Pin To Net: NetName=POMI Pin=M1-15
+Added Pin To Net: NetName=PIMO Pin=M1-16
+Added Pin To Net: NetName=LED3 Pin=M1-17
+Added Pin To Net: NetName=LED2 Pin=M1-22
+Added Pin To Net: NetName=LED1 Pin=M1-23
+Added Pin To Net: NetName=LED8 Pin=M1-24
+Added Pin To Net: NetName=TCK Pin=M1-25
+Added Pin To Net: NetName=TMS Pin=M1-26
+Added Pin To Net: NetName=TDI Pin=M1-27
+Added Pin To Net: NetName=TDO Pin=M1-28
+Added Pin To Net: NetName=TDO Pin=M1-28
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VBAT Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=RST Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=LED8 Pin=R3-1
+Added Pin To Net: NetName=NetD8_A Pin=R3-2
+Added Pin To Net: NetName=LED7 Pin=R4-1
+Added Pin To Net: NetName=NetD7_A Pin=R4-2
+Added Pin To Net: NetName=LED6 Pin=R5-1
+Added Pin To Net: NetName=NetD6_A Pin=R5-2
+Added Pin To Net: NetName=LED5 Pin=R6-1
+Added Pin To Net: NetName=NetD5_A Pin=R6-2
+Added Pin To Net: NetName=LED4 Pin=R7-1
+Added Pin To Net: NetName=NetD4_A Pin=R7-2
+Added Pin To Net: NetName=LED3 Pin=R8-1
+Added Pin To Net: NetName=NetD3_A Pin=R8-2
+Added Pin To Net: NetName=LED2 Pin=R9-1
+Added Pin To Net: NetName=NetD2_A Pin=R9-2
+Added Pin To Net: NetName=LED1 Pin=R10-1
+Added Pin To Net: NetName=NetD1_A Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=VCC Pin=R12-2
+Added Pin To Net: NetName=VCC Pin=R13-2
+Added Pin To Net: NetName=VCC Pin=R14-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=BTN 1 Pin=M1-6
+Added Pin To Net: NetName=BTN 1 Pin=R11-1
+Added Pin To Net: NetName=BTN 1 Pin=S2-3
+Added Pin To Net: NetName=BTN 1 Pin=S2-4
+Added Net: Name=BTN 1
+Added Pin To Net: NetName=BTN 2 Pin=M1-14
+Added Pin To Net: NetName=BTN 2 Pin=R12-1
+Added Pin To Net: NetName=BTN 2 Pin=S3-3
+Added Pin To Net: NetName=BTN 2 Pin=S3-4
+Added Net: Name=BTN 2
+Added Pin To Net: NetName=BTN 3 Pin=M1-19
+Added Pin To Net: NetName=BTN 3 Pin=R13-1
+Added Pin To Net: NetName=BTN 3 Pin=S4-3
+Added Pin To Net: NetName=BTN 3 Pin=S4-4
+Added Net: Name=BTN 3
+Added Pin To Net: NetName=BTN 4 Pin=M1-20
+Added Pin To Net: NetName=BTN 4 Pin=R14-1
+Added Pin To Net: NetName=BTN 4 Pin=S5-3
+Added Pin To Net: NetName=BTN 4 Pin=S5-4
+Added Net: Name=BTN 4
+Added Pin To Net: NetName=NetM1_8 Pin=M1-8
+Added Pin To Net: NetName=NetM1_8 Pin=TP1-1
+Added Net: Name=NetM1_8
+Added Pin To Net: NetName=NetM1_9 Pin=M1-9
+Added Pin To Net: NetName=NetM1_9 Pin=TP2-1
+Added Net: Name=NetM1_9
+Added Pin To Net: NetName=RST_BTN Pin=M1-21
+Added Pin To Net: NetName=RST_BTN Pin=R2-1
+Added Pin To Net: NetName=RST_BTN Pin=S1-3
+Added Pin To Net: NetName=RST_BTN Pin=S1-4
+Added Net: Name=RST_BTN
+Added Class: Name=myLEDBlinker
+Added Room: Name=myLEDBlinker
