@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Embedded\git_AltiumWorkspace\LedBlinker.PcbDoc
+DRC Rules Export File for PCB: C:\Embedded\git_AltiumWorkspace\LedBlinker.PcbDoc
 RuleKind=Clearance|RuleName=ClearancePolygon|Scope=Board|Minimum=20.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.00
