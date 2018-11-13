@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LedBlinker.PrjPCB]
+   Generated File[LedBlinker.TXT]
+   Generated File[LedBlinker.LDP]
+   Generated File[LedBlinker.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:30:55 AM On 2018-11-10
